@@ -7,7 +7,7 @@ Accounting Major, Data Science Minor.
 
 <div id="webaddress">
 <a href="Tysonwarnick@gmail.org">tysonwarnick@gmail.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="http://en.wikipedia.org/wiki/Mike_Tyson">My wikipedia page</a>
 </div>
 
 
