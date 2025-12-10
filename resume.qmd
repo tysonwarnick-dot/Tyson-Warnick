@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Tyson Warnick's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tyson Warnick
+Accounting Major, Data Science Minor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="Tysonwarnick@gmail.org">tysonwarnick@gmail.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
